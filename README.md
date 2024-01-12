@@ -1,5 +1,6 @@
 ### Hi there 👋
-oi
+### This is my personal account, there isn't much stuff in it
+### May I add something cool in future 😎
 <!--
 **pedrasKk/pedrasKk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
